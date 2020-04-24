@@ -1,0 +1,1 @@
+{"version":3,"file":"product.entity.js","sourceRoot":"","sources":["../../src/product/product.entity.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,qCAAoE;AAGpE,IAAa,OAAO,GAApB,MAAa,OAAQ,SAAQ,oBAAU;CAatC,CAAA;AAXG;IADC,uBAAa,EAAE;;mCACL;AAGX;IADC,gBAAM,EAAE;;4CACW;AAGpB;IADC,gBAAM,EAAE;;0CACS;AAGlB;IADC,gBAAM,EAAE;;0CACS;AAXT,OAAO;IADnB,gBAAM,EAAE;GACI,OAAO,CAanB;AAbY,0BAAO"}
